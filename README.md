@@ -1,4 +1,4 @@
-#  TypeScript Project Boilerplate
+# File Organizer: A Modern TypeScript Project Template
 
 A scalable, maintainable, and modular TypeScript project setup with a clean file structure and modern development practices.
 
